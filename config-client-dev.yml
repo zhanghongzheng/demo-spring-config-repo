@@ -1,3 +1,7 @@
+#忽略权限拦截
+management: 
+  security: 
+    enabled: false
 info:
   profile: dev
   from: git-dev2-from2+2
