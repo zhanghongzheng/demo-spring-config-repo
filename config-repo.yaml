@@ -1,0 +1,4 @@
+spring: 
+  profiles: default
+config: 
+  test: test1
