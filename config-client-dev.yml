@@ -1,5 +1,5 @@
 info:
   profile: dev
-  from: git-dev2-from2
+  from: git-dev2-from2+2
  
 test: aaa-dev
