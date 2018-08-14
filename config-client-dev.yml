@@ -1,0 +1,5 @@
+info:
+  profile: dev
+  from: git-dev
+ 
+test: aaa-dev
